@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋<br><br> I’m Badal Sharma, a 2nd-year B.Tech student at MMMUT, Gorakhpur.<br><br>🚀 Android Developer — Skilled in Kotlin, JetPack Compose, XML, Firebase, and building real-world mobile apps with modern UI/UX.<br><br>🧠 Co-founder of UniFoodHub — A student-led food delivery platform for MMMUT.<br><br>💻 I enjoy solving real-world problems through code and constantly learning new tools and technologies.<br><br>📬 Let’s connect: Badalsh908@gmail.com
+Hi there 👋<br><br> I’m Badal Sharma, a 3rd-year B.Tech student at MMMUT, Gorakhpur.<br><br>🚀 Android Developer — Skilled in Kotlin, JetPack Compose, XML, Firebase, and building real-world mobile apps with modern UI/UX.<br><br>🧠 Co-founder of UniFoodHub — A student-led food delivery platform for MMMUT.<br><br>💻 I enjoy solving real-world problems through code and constantly learning new tools and technologies.<br><br>📬 Let’s connect: Badalsh908@gmail.com
 
 
 ## 🌐 Socials:
